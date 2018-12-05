@@ -1,5 +1,6 @@
 BaseBundle
 ===================
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f895df2aed704cf482c2820ea843dadd)](https://app.codacy.com/app/Kronhyx/BaseBundle?utm_source=github.com&utm_medium=referral&utm_content=Kronhyx/BaseBundle&utm_campaign=Badge_Grade_Dashboard)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/ac7ea233-44c9-4319-ac02-103362873cbf/big.png)](https://insight.sensiolabs.com/projects/ac7ea233-44c9-4319-ac02-103362873cbf)
 
 Este bundle genera los métodos  principales para todos los bundles que lo heredan.
